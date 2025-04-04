@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vtuber-chat-customizer/static/css/main.3f66b8de.css",
+    "main.js": "/vtuber-chat-customizer/static/js/main.bbcdcf6d.js",
+    "static/js/453.4288a1f0.chunk.js": "/vtuber-chat-customizer/static/js/453.4288a1f0.chunk.js",
+    "index.html": "/vtuber-chat-customizer/index.html",
+    "main.3f66b8de.css.map": "/vtuber-chat-customizer/static/css/main.3f66b8de.css.map",
+    "main.bbcdcf6d.js.map": "/vtuber-chat-customizer/static/js/main.bbcdcf6d.js.map",
+    "453.4288a1f0.chunk.js.map": "/vtuber-chat-customizer/static/js/453.4288a1f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f66b8de.css",
+    "static/js/main.bbcdcf6d.js"
+  ]
+}
